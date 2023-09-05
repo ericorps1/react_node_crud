@@ -1,0 +1,27 @@
+/* TablaUsuarios.css */
+.table-usuarios {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .table-usuarios th,
+  .table-usuarios td {
+    border: 1px solid #ddd;
+    padding: 10px 15px;
+    text-align: left;
+  }
+  
+  .table-usuarios th {
+    background-color: #f2f2f2;
+    color: #333;
+  }
+  
+  .table-usuarios .delete-button {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    border-radius: 4px;
+  }  
